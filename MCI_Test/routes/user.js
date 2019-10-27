@@ -113,7 +113,7 @@ router.userInfo = (req, res) => {
 
     res.setHeader('Content-Type', 'application/json');
 
-    User.find({ "username" : req.params.username },function(err, user) {
+    User.find({ "_id" : req.params.id },function(err, user) {
         if (err)
             res.json({ message: 'User NOT Found!', errmsg : err } );
         else
