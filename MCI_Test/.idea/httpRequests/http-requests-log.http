@@ -1,0 +1,48 @@
+POST http://localhost:3000/user
+Accept: */*
+Content-Type: application/json
+
+{"username": "add", "password": "123","email": "2@qq.com","gender":"female","age": 22,"medical_history":"rff"}
+
+<> 2019-10-26T113102.200.json
+
+###
+
+POST http://localhost:3000/user
+Accept: */*
+Content-Type: application/json
+
+{"username": "add", "password": "123","email": "2@qq.com","gender":"female","age": 22,"medical_history":"rff"}
+
+<> 2019-10-26T112950.200.json
+
+###
+
+POST http://localhost:3000/user
+Accept: */*
+Content-Type: application/json
+
+{"username": "add", "password": "123","email": "2@qq.com","gender":"female","age": 22,"medical_history":"rff"}
+
+<> 2019-10-26T112947.200.json
+
+###
+
+POST http://localhost:3000/user
+Accept: */*
+Content-Type: application/json
+
+{"username": "Ella", "password": "123","email": "2@qq.com","gender":"female","age": 22,"medical_history":"rff"}
+
+<> 2019-10-26T112854.200.json
+
+###
+
+POST http://localhost:3000/user
+Accept: */*
+Content-Type: application/json
+
+{"username": "Ella", "password": "123","email": "2@qq.com","gender":"female","age": 22,"medical_history":"rff"}
+
+###
+
